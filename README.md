@@ -5,4 +5,3 @@ Main bot file: `index.js`
 Run bot: `node index.js`
 
 Don't forget to set the token as an environment variable `TOKEN`.
-# Hangman-Bot
